@@ -1,6 +1,8 @@
 # LLMs-Resources
 # Resources to get started with Large Language Models (LLMs)
-
+# Getting Started!
+  -Databricks -[GenAI fundamentals] - (https://www.databricks.com/learn/training/generative-ai-fundamentals-accreditation)
+  -google cloud fundamentals-[Introduction to Large Language Models] - (https://www.cloudskillsboost.google/course_sessions/5860579/video/413316)
 ## Videos in Neural Networks and LLMs
 - [A Hacker's Guide to Language Models](https://youtu.be/jkrNMKz9pWU?si=-PLRJrXB80E27Q_m) by Jeremy Howard.
 - [[1hr Talk] Intro to Large Language Models](https://youtu.be/zjkBMFhNj_g?si=hw-BLphS85ORXL7i) by Andrej Karpathy.
