@@ -31,6 +31,9 @@
 ## Google, Microsoft and AWS has their own courses 
 ## OpenAI has really good [documentation](https://platform.openai.com/docs/introduction) and [Cookbook](https://cookbook.openai.com/)
 
+## Certificate Courses
+    Databricks: LLM101x
+   - Large Language Models: Application through Production (https://courses.edx.org/courses/course-v1:Databricks+LLM101x+2T2023/0fe8e607c6ff440f9423661b35ed1068/?_gl=1*1jj7hn8*_ga*MTQ0NzM1OTE2LjE3MDU2NzE3Mzk.*_ga_D3KS4KMDT0*MTcwNTY3MTczOS4xLjEuMTcwNTY3MTc4Ni4xMy4wLjA)
 ## Youtube
 
   - [Langchain playlist](https://youtube.com/playlist?list=PLz-qytj7eIWVd1a5SsQ1dzOjVDHdgC1Ck&si=UsnrzCA1kUsYLtLe)
