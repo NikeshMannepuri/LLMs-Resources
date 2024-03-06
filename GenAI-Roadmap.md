@@ -1,7 +1,7 @@
 # GenAI Roadmap
 
 ## Part-1 (Basic)
-<img src="images/GenAI Roadmap_1.png" alt="image" width="50%" height="auto">
+![image](https://github.com/NikeshMannepuri/LLMs-Resources/assets/108929516/78c34b9c-a70d-42f6-9e13-6cc0ef05bd61)
 
 # Link to Part-1 Roadmap Resources
 [My GenAI YouTube Channel](https://www.youtube.com/playlist?list=PL02dtxLisSijKxtTNoRbQ47RWdGZ27wN0)
@@ -50,4 +50,4 @@
 Stay tuned for more engaging Industry standard GenAI app development tutorials coming soon to my YouTube channel!
 
 ## Part-2 (Advance)
-<img src="images/GenAI Roadmap_2.png" alt="image" width="50%" height="auto">
+![image](https://github.com/NikeshMannepuri/LLMs-Resources/assets/108929516/09c246b7-cbc6-42cf-929c-448a1c659b12)
